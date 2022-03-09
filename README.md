@@ -1,7 +1,7 @@
 # pds-ui
 
 #### 介绍
-PDS-UI 是与<https://gitee.com/haohanscm/pds> 搭配的 前端管理。<br/>
+PDS-UI 是与<https://github.com/haohanscm/pds> 搭配的 前端管理。<br/>
 
 产品适用于生鲜采购配送，仓储管理、进销存、收银台系统等。
 
@@ -31,7 +31,7 @@ PDS-UI 是与<https://gitee.com/haohanscm/pds> 搭配的 前端管理。<br/>
 
 #### 安装教程
 
-1.  git clone https://gitee.com/haohanscm/pds-ui.git
+1.  git clone https://github.com/haohanscm/pds-ui.git
 2.  npm install -g cnpm --registry=https://registry.npm.taobao.org
 3.  cnpm install ##安装依赖
 4.  cnpm run dev ##启动
